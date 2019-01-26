@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">سامانه تسویه حساب دانشجویان</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">ورود</string>
+    <string name="signup">ثبت نام</string>
+    <string name="register">ثبت</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tasviyeact">tasviyeact</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+
+    <string name="uname">دانشگاه ارومیه</string>
+    <string name="user_name">urmia.ac.ir</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>صفحه ی من</item>
+        <item>پیام ها</item>
+        <item>آموزش</item>
+        <item>امور دانشجویی</item>
+        <item> تنظیمات</item>
+        <item>راهنمای کاربر</item>
+        <item>درباره ی ما</item>
+        <item> خروج</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent" android:layout_width="match_parent"
+    app:itemTextColor="@android:color/background_light"
+
+    android:gravity = "right"
+    android:layoutDirection="rtl"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/person1"
+            android:title="صفحه ی من"
+            android:checked="true" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/envolepe"
+            android:title="پیام ها" />
+        <item
+            android:id="@+id/amozesh"
+            android:icon="@drawable/amozesh"
+            android:title="آموزش" />
+
+        <item
+            android:id="@+id/student"
+            android:icon="@drawable/student"
+            android:title="امور دانشجویی" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/setting"
+            android:title="تنظیمات" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/help"
+            android:title="راهنمای کاربر" />
+        <item
+            android:id="@+id/aboutus"
+            android:icon="@drawable/aboutus"
+            android:title="درباره ی ما" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/shutdown"
+            android:title="خروج" />
+    </group>
+
+</menu>

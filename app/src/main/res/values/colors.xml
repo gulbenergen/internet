@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34746e</color>
+    <color name="colorPrimaryDark">#333cff</color>
+    <color name="colorAccent">#f881ac</color>
+    <color name="firsttoolbar">#337aff</color>
+    <color name="graylight">#c0c0c0</color>
+    <color name="startblue">#5fb0c9</color>
+    <color name="endblue">#337aff</color>
+    <color name="drkbtn">#f5da81</color>
+    <color name="black_alpha">#000000</color>
+</resources>
